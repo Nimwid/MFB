@@ -1,0 +1,1 @@
+{\n  "name": "mfb-mud-engine",\n  "version": "1.0.0",\n  "dependencies": {\n    "express": "^4.17.1",\n    "vue": "^2.6.12"\n  },\n  "devDependencies": {\n    "typescript": "^4.4.4"\n  }\n}
